@@ -2,8 +2,32 @@
 	"blogs" : [
 		{
 			"title" : "soluta earum.",
-			"author" : " John Doe" , 
+			"author" : " John" , 
+			"id" : 1
+		} , 
+		{
+			"title" : "lorem earum.",
+			"author" : " victor" , 
 			"id" : 1
 		}
+		{
+			"title" : "asoa earum.",
+			"author" : " Jean" , 
+			"id" : 1
+		}
+	] , 
+	"authors" : [
+			{
+				"name" : "All"
+			},
+			{
+				"name" : "victor"
+			},
+			{
+				"name" : "Jean"
+			},
+			{
+				"name" : "Albert"
+			}
 	]
 }
